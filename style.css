@@ -1,0 +1,106 @@
+*{
+  padding: 0px;
+  margin:0px;
+}
+
+header{
+  font-size:40px;
+  color: white;
+  font-style: oblique;
+  background-color: black;
+  border: 2px solid white;
+  }
+  .head{
+  padding: 20px;
+  background-color: plum;
+  border: 5px solid white;
+  margin-left: 100px;
+  margin-right: 100px;
+  }
+
+  .first img{
+  padding: 10px;
+  height: 120px;
+  border: 4px double black;
+  width: 120px;
+  float: left;
+  margin-top:20px;
+  background-color: white;
+
+}
+
+.second img{
+  padding: 10px;
+  height: 120px;
+  width: 120px;
+  border: 4px double black;
+  float: left;
+  margin-top:20px;
+ background-color: white;
+
+  
+}
+.third img{
+  padding: 10px;
+  height: 120px;
+  width: 120px;
+  border: 4px double black;
+  float: left;
+  margin-top:20px;
+  background-color: white;
+  }
+
+  p,h2{
+  margin-left: 200px;
+  margin-top: 20px;
+  text-align: justify;
+  
+}
+
+.button{
+  border:none;
+  color: white;
+  padding: 10px 15px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 10px;
+  background-color: blue;
+  margin-left: 900px;
+  }
+  .button:hover{
+    background-color: rgb(156, 156, 218);
+  }
+
+  .last{
+    margin-left: 150px;
+    margin-top: 5px;
+    margin-bottom: 0px;
+
+  }
+
+   .images{
+    margin-right: 0px;
+    float: left;
+    margin-left: 0px;
+    margin-bottom: 0px;
+    }
+  
+
+    h4{
+      background-color      : black;
+      color: cornsilk;
+      font: outline;
+      font-style: unset;
+      border: 4px outset black;
+      
+    }
+
+    footer{
+      padding: 5px;
+      padding-top: 0px;
+      background-color: black;
+      color: white;
+      margin-left: 100px;
+      margin-right: 100px;
+}
